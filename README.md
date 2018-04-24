@@ -1,2 +1,2 @@
 # git-hook-sample
-# 3
+# 1
