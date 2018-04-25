@@ -1,3 +1,3 @@
 # git-hook-sample
 # 1
-kkkml
+kk
